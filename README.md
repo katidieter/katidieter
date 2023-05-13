@@ -1,4 +1,4 @@
-## Hey, I'm Katieli Dieter - Machine Learning Engineer
+## Hey, I'm Katieli Dieter - Data Scientist
 
  <div>
   <a href="https://github.com/katidieter">
