@@ -10,5 +10,5 @@ I am passionate about solving problems using technology and I believe that data 
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [LinkedIn ]([https://www.linkedin.com/in/youssef-hosni-b2960b135/](https://www.linkedin.com/in/katieli-dieter/))  | My professional background and where you can contact me|
-| [Medium ]([https://medium.com/@youssefraafat57](https://medium.com/@katielidieter))  | My blog with some of my thoughts and where I will write data science articles   |
+| [LinkedIn](https://www.linkedin.com/in/katieli-dieter/)  | My professional background and where you can contact me|
+| [Medium](https://medium.com/@katielidieter) | My blog with some of my thoughts and where I will write data science articles   |
