@@ -1,19 +1,14 @@
-## Hey, I'm Katieli Dieter - Data Scientist
+## Hi, I'm Katieli Dieter 
 
- <div>
-  <a href="https://github.com/katidieter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katidieter&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katidieter&layout=compact&langs_count=7"/>
-</div>
+ I am a data scientist with solid software engineering skills. My work focuses on geospatial science, mainly for the delivery business. I also worked for about 2 years as a data scientist in the logistics and acquisition domain. Before that, I worked as a software engineer, quality assurance, and tech lead, when I had the opportunity to improve my tech and product development knowledge.
+ 
+I am passionate about solving problems using technology and I believe that data adds a lot of power to improve peoples's lives. During the last 11 years, I have participated in amazing projects and I wanna share what I learn, but majority of them are private, so I can show the whole thing. Now, I want to create my public cases and I hope it could be helpful to other tech/data lovers.
   
-  ##
- 
-<div> 
-  <a href = "mailto:katielidieter@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/katieli-dieter" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://medium.com/@katielidieter" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-    <a href="https://dev.to/katidieter" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/katidieter/katidieter/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ ##
+
+<h3 align="left">Connect with me:</h3>
+
+| Media  | Summary |
+| ------------- | ------------- |
+| [LinkedIn ]([https://www.linkedin.com/in/youssef-hosni-b2960b135/](https://www.linkedin.com/in/katieli-dieter/))  | My professional background and where you can contact me|
+| [Medium ]([https://medium.com/@youssefraafat57](https://medium.com/@katielidieter))  | My blog with some of my thoughts and where I will write data science articles   |
