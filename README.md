@@ -1,14 +1,19 @@
 ## Hi, I'm Katieli Dieter 
 
- I am a data scientist with solid software engineering skills. My work focuses on geospatial science, mainly for the delivery business. I also worked for about 2 years as a data scientist in the logistics and acquisition domain. Before that, I worked as a software engineer, quality assurance, and tech lead, when I had the opportunity to improve my tech and product development knowledge.
- 
-I am passionate about solving problems using technology and I believe that data adds a lot of power to improve peoples's lives. During the last 11 years, I have participated in amazing projects and I wanna share what I learn, but the majority of them are private, so I can't show the whole thing. Now, I want to create my public cases and I hope it could be helpful to other tech/data lovers.
-  
- ##
+ Senior Data Scientist focused on antifraud systems and decision-making under uncertainty.
 
-<h3 align="left">Connect with me:</h3>
+I build and scale data-driven solutions in environments where data is noisy, labels are imperfect, and decisions have real financial and operational consequences.
 
-| Media  | Summary |
-| ------------- | ------------- |
-| [LinkedIn](https://www.linkedin.com/in/katieli-dieter/)  | My professional background and where you can contact me|
-| [Medium](https://medium.com/@katielidieter) | My blog with some of my thoughts and where I will write data science articles   |
+My background blends strong software engineering fundamentals with applied machine learning and analytics, with recent work centered on:
+
+- fraud detection and risk modeling,
+
+- cost-sensitive decision systems,
+
+- model interpretability and human-in-the-loop workflows,
+
+- network-based approaches to identify organized fraud.
+
+I care not only about model performance, but about how models are used in practice — including interpretability, responsible AI, and alignment with business and operational constraints.
+
+This GitHub contains curated projects and experiments reflecting how I approach real-world data problems, from exploration to deployment-oriented thinking.
